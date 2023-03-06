@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "bndbox",
+        "Ctrainval",
+        "cuda",
+        "datapath",
+        "dbox",
+        "defbox",
+        "keepdim",
+        "multiboxloss",
+        "tranformed",
+        "unsqueeze"
+    ],
+    "git.ignoreLimitWarning": true
+}
